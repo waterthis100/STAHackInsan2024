@@ -1,0 +1,22 @@
+.logo{
+    border-radius: 10px;
+    width: 15%;
+    margin-left: 37rem;
+    margin-bottom: 10rem;
+}
+
+.Input button{
+    margin-left: 35rem;
+    margin-bottom: 10rem;
+    width: 20%;
+    height: 100%;
+    font-size: 20px;
+}
+
+
+
+
+.bodyy{
+    background-color: rgb(63, 253, 253);
+    background-repeat: repeat;
+}
